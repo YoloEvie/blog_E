@@ -1,0 +1,1 @@
+import{_ as s,g as r,b as n,o as c}from"./index-CZUCGoBf.js";const p={methods:{goToRoute(o){const e={dev:"/development",design:"/design",photo:"/photography"};this.$router.push(e[o])}}};function a(o,e,d,_,u,i){const t=n("router-view");return c(),r(t)}const h=s(p,[["render",a],["__scopeId","data-v-82fb1ddd"]]);export{h as default};
